@@ -1,10 +1,10 @@
 {
   "title": "Birkbeck PTA",
   "titleTemplate": "PTA 1",
-  "welcomeText": "# Yo, PTA - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
+  "welcomeText": "# Yo, Yo, Yo - Welcome to the new PTA website for Birkbeck School.",
+  "logo": "/images/uploads/birkbeck-logo.png",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Birkbeck School PTA",
   "seoMetaImage": ""
 }
